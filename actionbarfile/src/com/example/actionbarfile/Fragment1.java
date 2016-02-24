@@ -13,6 +13,7 @@ public class Fragment1 extends Fragment {
 			Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		View view=inflater.inflate(R.layout.fragment1, null);
+		//ksalfkjdskflj lk快速减肥拉伸空间法
 		return view;
 	}
 
